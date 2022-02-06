@@ -1,6 +1,6 @@
 # Document Scanner
 
-[![Documnet Scanner](https://cdn.jsdelivr.net/gh/Code-Newborn/PicBed@main/img/2022/02/06/Documnet Scanner-223033.jpg)](https://youtu.be/ON_JubFRw8M)
+[![Documnet Scanner](https://cdn.jsdelivr.net/gh/Code-Newborn/PicBed@main/img/Github-Python/Document-Scanner/Documnet Scanner-20220206233859.jpg)](https://youtu.be/ON_JubFRw8M)
 
 In this video we are going to create a simple document scanner using opencv. We will  learn how to run this in real time and how we can save these images by pressing just a button on the keyboard. This Is perfect project for beginners as it is simple and covers the core principals of opencv. 
 
